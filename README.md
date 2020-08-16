@@ -2,4 +2,5 @@
 My Library for learning
 # SQL
 - [Создание удаление таблиц внешние ключи](https://metanit.com/sql/mysql/2.5.php)
-
+# SPRING
+- [SPRING XML CONFIG ](https://beginner-mercenary.blogspot.com/2018/08/24-bean-c-xml.html)
