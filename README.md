@@ -5,4 +5,4 @@ My Library for learning
 # SPRING
 - [SPRING XML CONFIG ](https://beginner-mercenary.blogspot.com/2018/08/24-bean-c-xml.html)
 # TEST
-- [AssertJ](https://www.codeflow.site/ru/article/introduction-to-assertj)
+- [Введение в AssertJ](https://www.codeflow.site/ru/article/introduction-to-assertj)
