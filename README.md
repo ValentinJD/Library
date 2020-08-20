@@ -8,4 +8,4 @@ My Library for learning
 - [Введение в AssertJ](https://www.codeflow.site/ru/article/introduction-to-assertj)
 # GIT
 - [GIT-Book](https://git-scm.com/book/ru/v2)
-https://www.youtube.com/watch?v=2AjggfDZLVM
+
