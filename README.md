@@ -10,3 +10,4 @@ My Library for learning
 - [GIT-Book](https://git-scm.com/book/ru/v2)
 # LOG
 - [Введение в логирование](https://javarush.ru/groups/posts/2388-logirovanie-chto-kak-gde-i-chem)
+- [Логирование более подробно](http://www.skipy.ru/useful/logging.html#log4j_sl)
