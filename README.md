@@ -11,3 +11,5 @@ My Library for learning
 # LOG
 - [Введение в логирование](https://javarush.ru/groups/posts/2388-logirovanie-chto-kak-gde-i-chem)
 - [Логирование более подробно](http://www.skipy.ru/useful/logging.html#log4j_sl)
+# Деплой на HEROKU
+- [Статья с HABRа](https://habr.com/ru/post/232679/)
