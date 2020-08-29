@@ -16,3 +16,5 @@ My Library for learning
 - 2 [Статья с Щей](https://xn--e1ai0c.xn--p1ai/article.php?id=11)
 # Stream API
 - [Шпаргалка с HABRа](https://habr.com/ru/company/luxoft/blog/270383/)
+# Алогоритмы
+- [Определение сложности алгоритма](https://habr.com/ru/post/104219/)
