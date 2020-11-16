@@ -5,6 +5,8 @@ My Library for learning
 - [Нормализация баз данных основы](https://info-comp.ru/database-normalization)
 # SPRING
 - [SPRING XML CONFIG ](https://beginner-mercenary.blogspot.com/2018/08/24-bean-c-xml.html)
+# SPRING.JDBC
+- [SPRING JDBC Примеры butchUdpdate и т.д. ](https://coderlessons.com/tutorials/java-tekhnologii/uznai-vesnu-jdbc/spring-jdbc-kratkoe-rukovodstvo)
 # TEST
 - JUNIT
 -[Rules создание и описание стандартных](http://blog.qatools.ru/junit/junit-rules-tutorial)
