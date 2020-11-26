@@ -7,6 +7,8 @@ My Library for learning
 - [SPRING XML CONFIG ](https://beginner-mercenary.blogspot.com/2018/08/24-bean-c-xml.html)
 # SPRING.JDBC
 - [SPRING JDBC Примеры butchUdpdate и т.д. ](https://coderlessons.com/tutorials/java-tekhnologii/uznai-vesnu-jdbc/spring-jdbc-kratkoe-rukovodstvo)
+# SPRING.DATA_JPA
+- [Основные способы использования стандартных методов и их создание и модификация](https://habr.com/ru/post/435114/)
 # TEST
 - JUNIT
 -[Rules создание и описание стандартных](http://blog.qatools.ru/junit/junit-rules-tutorial)
