@@ -29,4 +29,8 @@ My Library for learning
 - [Введение](https://metanit.com/java/javaee/3.9.php)
 # Spring AOP
 - [Введение c HABR](https://habr.com/ru/post/428548/)
+# FAQ IDEA
+- [Не запускается режим Debug FATAL ERROR in native method: processing of -javaagent failed, appending to system class path failed
+Unexpected error (103) returned by AddToSystemClassLoaderSearch]
+(Необходимо отключить disable Settings | Build, Execution, Deployment | Debugger | Async Stack Traces - instrumenting agent)
 
