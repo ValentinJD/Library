@@ -27,3 +27,6 @@ My Library for learning
 - [Определение сложности алгоритма](https://habr.com/ru/post/104219/)
 # Exppression Language
 - [Введение](https://metanit.com/java/javaee/3.9.php)
+# AOP
+- [Введение c HABR](https://habr.com/ru/post/428548/)
+
