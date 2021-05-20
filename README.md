@@ -33,4 +33,5 @@ My Library for learning
 - [Не запускается режим Debug FATAL ERROR in native method: processing of -javaagent failed, appending to system class path failed
 Unexpected error (103) returned by AddToSystemClassLoaderSearch]
 (Необходимо отключить disable Settings | Build, Execution, Deployment | Debugger | Async Stack Traces - instrumenting agent)
-
+# JMS
+- [Отправка получения почты Yandex](http://toolkas.blogspot.com/2019/02/java.html)
